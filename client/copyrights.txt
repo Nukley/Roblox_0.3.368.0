@@ -17,7 +17,7 @@ source code is Copyright © 2000-2004, Morgan McGuire, All rights reserved.
 ------------------
 
 
-FMOD Sound System, copyright © Firelight Technologies Pty, Ltd., 1994-2007.
+FMOD Sound System, copyright © Firelight Technologies Pty, Ltd., 1994-2006.
 
 
 ------------------
